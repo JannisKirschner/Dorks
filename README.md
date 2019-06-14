@@ -12,7 +12,7 @@ Personal Collection of Awesome Google Dorks
 - site:"s3.dualstack.us-east-1.amazonaws.com" and intext:CONFIDENTIAL
   
 Just add your target name after the query.  
-There are more confidential statuses for example secret or tlp (traffic light protocol) for military/gov documents.
+There are more confidential statuses, for example secret or tlp (traffic light protocol) for military/gov documents.
 
 - site:"s3-external-1.amazonaws.com" and intext:"TOP SECRET"
 - site:"s3.amazonaws.com" and intext:"tlp:red"
