@@ -18,7 +18,7 @@ There are more confidential statuses, for example secret or tlp (traffic light p
 - site:"s3.amazonaws.com" and intext:"tlp:red"
 - site:"s3.amazonaws.com" and intext:"tlp:amber"
 
-## Confidential FIles stored in Azure
+## Confidential Files stored in Azure
 
 - site:"blob.core.windows.net" and intext:"CONFIDENTIAL"
 
