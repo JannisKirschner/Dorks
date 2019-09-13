@@ -32,3 +32,7 @@ There are more confidential statuses, for example secret or tlp (traffic light p
 - site:"dev.azure.com" and intext:secret
 - site:"dev.azure.com" and intext:password
 - site:"dev.azure.com" and intext:apikey
+
+## Ciphermail Login
+
+- intext:"CipherMail Email Encryption Gateway login"
